@@ -1,0 +1,20 @@
+# Local secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Local/generated QA artifacts
+qa/
+runs/
+tmp/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
