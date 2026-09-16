@@ -32,7 +32,9 @@ No environment variables or API keys are required. This repository contains only
 
 ## Preview
 
-Add a screenshot or GIF here, for example `docs/preview.gif`, when publishing a preview capture.
+![Giselle waving preview](assets/giselle-preview.gif)
+
+This short GIF is a GitHub preview only; Codex uses `spritesheet.webp` for the actual pet animation.
 
 ## License
 
